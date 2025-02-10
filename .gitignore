@@ -12,3 +12,5 @@ __pycache__
 
 /mp_collections_2024_12_28
 /venv
+
+db.sqlite3
